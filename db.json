@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "name": "shivling",
+      "department": "Computer",
+      "age": "22",
+      "salary": "1 lack",
+      "address": "pune",
+      "married": false,
+      "id": 1
+    }
+  
+  ]
+}
